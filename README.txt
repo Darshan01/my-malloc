@@ -1,7 +1,5 @@
-AUTHORS: Darshan Lakshminarayanan and Sivaragha Deepika Buddana
-NetIds: DL1058 and SDB210
-
-We collaborated by sharing a document that held our code.
+AUTHORS: Darshan Lakshminarayanan
+NetIds: DL1058
 
 ---------------------------------------------PROJECT/FILE DESCRIPTIONS---------------------------------------------
 
@@ -167,7 +165,7 @@ free: tried to free a pointer that was not malloc-ed; pointer not in heap, not o
         this is due to the fact that once the free blocks are coalesced, it is impossible to tell what was previously inside those free blocks
 
 ---------------------------------------------WHAT I LEARNED---------------------------------------------
-We learned how to create multi-file projects in C
-We learned how to create files from scratch
-We learned how to collaborate on a coding project
-We learned how to debug large projects
+I learned how to create multi-file projects in C
+I learned how to create files from scratch
+I learned how to collaborate on a coding project
+I learned how to debug large projects
